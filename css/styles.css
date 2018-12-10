@@ -1,0 +1,40 @@
+  body {
+    background-color: #EAF6F6;
+    padding: 15px;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: red;
+    border-width: 5px;
+    width: 5%;
+  }
+
+  h1 {
+    color: #66BFBF;
+    padding-left: 35%;
+  }
+
+  h3 {
+    color: #66BFBF;
+    padding-left: 35%;
+    text-decoration: underline;
+    font-style: oblique;
+  }
+
+  div {
+    text-align: justify;;
+  }
+
+  li,ol,p {
+    padding-left: 35%;
+  }
+
+  img {
+    border-radius: 50%;
+  }
+
+  table {
+    padding-left: 35%;
+  }
